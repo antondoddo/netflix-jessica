@@ -1,0 +1,15 @@
+com\netflixjess\model\Resolution.class
+com\netflixjess\model\Characteristics.class
+com\netflixjess\model\Mpa.class
+com\netflixjess\exception\SeasonException.class
+com\netflixjess\model\Genre.class
+com\netflixjess\model\Episode.class
+com\netflixjess\model\Title.class
+com\netflixjess\exception\TitleException.class
+com\netflixjess\model\Duration.class
+com\netflixjess\model\Description.class
+com\netflixjess\model\Person.class
+com\netflixjess\model\ReleaseYear.class
+com\netflixjess\exception\EpisodeException.class
+com\netflixjess\model\Season.class
+com\netflixjess\exception\DescriptionException.class
